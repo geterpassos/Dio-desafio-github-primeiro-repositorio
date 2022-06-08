@@ -1,4 +1,5 @@
 cd
+cd .. (retorna um nível)
 dir
 mkdir - criar
 del/rmdir rmdir "nome da pasta" /S /Q pra apagar tudo dentro da pasta e a pasta
@@ -6,4 +7,4 @@ del/rmdir rmdir "nome da pasta" /S /Q pra apagar tudo dentro da pasta e a pasta
 git init
 ls -a (para mostrar as pastas ocultas)
 
-git clone "https://github.com/'geterpassos'/'geterpassos'.git"
+git clone  (através do link copiado, clona o arquivo do servidor para a máquina)
